@@ -1,17 +1,27 @@
-# Hi there, I'm Afraa! 👋
+# Hi there, I'm Afraa 👋
 
-## About Me 🚀
+🎓 3rd Year IT Student
 
-🎓 BSc IT Student (3rd Year)
-💻 Aspiring Software Developer
-🌐 Certified in IoT Fundamentals
-🌍 Languages: SQL | Pandas | Matplotlib
+🌐 IoT Fundamentals Certified
+
 🔒 Learning Cybersecurity, Git & GitHub
-📊 Exploring Data Analytics
-🚀 Building projects and improving problem-solving skills
-📫 How to reach me: afraa.06f@gmail.com
-- ⚡ Fun fact: My tech interests keep changing—I started with IoT, moved into cybersecurity, and now I'm diving into data analytics.
 
+📊 Exploring Data Analytics
+
+🚀 Building projects and strengthening problem-solving skills
+
+### Skills
+- Python (Basics)
+- SQL
+- Pandas
+- Matplotlib
+- Git & GitHub
+
+### Contact
+📫 afraa.06f@gmail.com
+
+### Fun Fact
+⚡ My tech interests keep evolving—from IoT to cybersecurity to data analytics.
 
 
 
