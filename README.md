@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Afraa! 👋
 
-<!--
-**afraa06f-ops/afraa06f-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+🎓 BSc IT Student (3rd Year)
+💻 Aspiring Software Developer
+🌐 Certified in IoT Fundamentals
+🌍 Languages: SQL | Pandas | Matplotlib
+🔒 Learning Cybersecurity, Git & GitHub
+📊 Exploring Data Analytics
+🚀 Building projects and improving problem-solving skills
+📫 How to reach me: afraa.06f@gmail.com
+- ⚡ Fun fact: My tech interests keep changing—I started with IoT, moved into cybersecurity, and now I'm diving into data analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
